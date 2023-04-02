@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+    padding: 4px;
+    background-color: lightgray;
+    color: crimson;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.wellcome {
+    text-align: center;
+    font-size: 3vh;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+}
+
+.sign {
+    font-weight: 500;
+}

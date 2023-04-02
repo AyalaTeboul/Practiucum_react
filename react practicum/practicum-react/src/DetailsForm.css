@@ -1,0 +1,12 @@
+.button{
+    width: 50%;
+}
+.input{
+    width: 50%;
+}
+.childTitle{
+   font-size: 2vh; 
+   padding: 4px;
+   background-color: lightgrey;
+   color: crimson;
+}

@@ -1,0 +1,20 @@
+.link{
+    background-color: crimson;
+    color: white;
+    text-decoration-line:none ;
+    padding:1.25rem;
+    height: 100%;
+    width: 15vw;
+    border-radius: 15px;
+    margin: 2px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+    font-size: 2.5vh;
+    font-weight: 500;
+}
+.card{
+    height: 100%;
+}
+.link:hover{
+    background-color: rgb(148, 8, 29);
+}
